@@ -1,6 +1,6 @@
 
 ## Description
-
+Communication of different modules in nest implemented.
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
